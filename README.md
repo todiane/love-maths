@@ -1,6 +1,6 @@
-#LOVE MATHS
+# LOVE MATHS
 
-This is a walkthrough project undertaken as part of my Full Stack Developer training with Code Institute
+This is a walkthrough project undertaken as part of my Full Stack Developer training with Code Institute. It provides a series of maths problems that the user has to answer. Each correct and incorrect answer is recorded on the screen for the user.
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
@@ -13,7 +13,7 @@ The deployed Love Maths project is here:
 
 The aim of creating the Love Maths project was to walk through how to use JavaScript before going on to create my own JavaScript project
 
-##***The Cycle Of Life***
+## ***The Cycle Of Life***
 
 My project is a game similar to rock, paper, scissors and can be found [here](https://todiane.github.io/cycle-of-life-p2/) - press Ctrl (or Cmd) + mouse click to open in a new window
 
